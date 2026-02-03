@@ -7,7 +7,7 @@
   <a href="mailto:nguyenducmanh271222005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/V4m4n"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/duc_manh_2712"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@[ID_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="https://youtube.com/@vamamurin"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://discord.com/users/v4m4n"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=vamamurin&color=brightgreen&style=for-the-badge&label=VIEWS" />
 </p>
@@ -28,38 +28,32 @@
 ## 🛠 Technologies & Tools
 <table width="100%" align="center">
   <tr>
-    <td align="center"><img alt="Arch Linux" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"><br>Arch</td>
-    <td align="center"><img alt="Linux" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br>Linux</td>
-    <td align="center"><img alt="Java" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br>Java</td>
-    <td align="center"><img alt="Spring" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"><br>Spring</td>
-    <td align="center"><img alt="Bash" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"><br>Bash</td>
-    <td align="center"><img alt="Docker" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"><br>Docker</td>
+    <td align="center"><img alt="Arch Linux" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"><br>Arch</td>
+    <td align="center"><img alt="Linux" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br>Linux</td>
+    <td align="center"><img alt="Java" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br>Java</td>
+    <td align="center"><img alt="Bash" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"><br>Bash</td>
   </tr>
   <tr>
-    <td align="center"><img alt="Proxmox" height=48px src="https://simpleicons.org/icons/proxmox.svg"><br>Proxmox</td>
-    <td align="center"><img alt="Python" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>Python</td>
-    <td align="center"><img alt="Neovim" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"><br>Neovim</td>
-    <td align="center"><img alt="Git" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
-    <td align="center"><img alt="MySQL" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>MySQL</td>
-    <td align="center"><img alt="Nginx" height=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"><br>Nginx</td>
+    <td align="center"><img alt="C++" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br>C++</td>
+    <td align="center"><img alt="Proxmox" height=48px width=48px src="https://cdn.simpleicons.org/proxmox/E57020"><br>Proxmox</td>
+    <td align="center"><img alt="Python" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>Python</td>
+    <td align="center"><img alt="MySQL" height=48px width=48px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>MySQL</td>
   </tr>
 </table>
 
-## 🔭 Currently Working On
-- 🛡️ **Zero Trust Research**: Developing the Behavior-Adaptive Least Privilege (BALP) model.
-- 💬 **Real-time Chat App**: Building a secure communication system with Java & WebSockets.
-- 🏠 **Home Lab**: Managing a SOC Lab with Wazuh and pfSense on Proxmox.
-- 🎸 **Leisure**: Mastering "Playing God" on solo fingerstyle guitar.
+## Currently Working On
+- **Zero Trust Research**: Developing the Behavior-Adaptive Least Privilege (BALP) model.
+- **Real-time Chat App**: Building a secure communication system with Java & WebSockets.
+- **Home Lab**: Managing a SOC Lab with Wazuh and pfSense on Proxmox.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamamurin&theme=github-compact)](https://github.com/vamamurin)
 
-## Let's connect 🚀
-🌟 I'm always open to discussing Cyber Security, Linux rices, or collaborating on Java/Security projects.
+## Let's connect
 
 <p>
-  <a href="mailto:[YOUR_EMAIL]@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <a href="mailto:nguyenducmanh27122005@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/V4m4n"><img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
+  <a href="https://discord.com/users/v4m4n"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
 <p align="center">
