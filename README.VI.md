@@ -52,7 +52,7 @@
 
 ## Dự án
 - **Nghiên cứu Zero Trust**: Phát triển mô hình Behavior-Adaptive Least Privilege (BALP).
-- **Home Lab**: Vận hành phòng Lab SOC với Wazuh và pfSense trên nền tảng Proxmox.
+- **Home Lab**: Vận hành phòng Lab SOC trên Proxmox.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamamurin&theme=github-compact)](https://github.com/vamamurin)
 
