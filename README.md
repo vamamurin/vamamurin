@@ -14,7 +14,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vamamurin&theme=radical&show_icons=true&count_private=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamamurin&theme=radical&layout=compact" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamamurin&theme=radical&layout=compact&exclude_repo=play-wright-auto-mail-merge&cache_seconds=1800&v=fix-stats-now-999" />
     </td>
   </tr>
 </table>
