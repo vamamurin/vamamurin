@@ -52,7 +52,7 @@
 
 ## Currently Working On
 - **Zero Trust Research**: Developing the Behavior-Adaptive Least Privilege (BALP) model.
-- **Home Lab**: Managing a SOC Lab with Wazuh and pfSense on Proxmox.
+- **Home Lab**: Managing a SOC Lab on Proxmox.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamamurin&theme=github-compact)](https://github.com/vamamurin)
 
