@@ -2,9 +2,15 @@
 
 <h3 align="center"> <strong> What really kill me are the Memories </strong> </h3>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-manh-nguyen-46a8a4325/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:nguyenducmanh271222005@gmail.com)
-![](https://komarev.com/ghpvc/?username=vamamurin&color=brightgreen&style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/duc-manh-nguyen-46a8a4325/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nguyenducmanh271222005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/V4m4n"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/duc_manh_2712"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@[ID_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="https://discord.com/users/v4m4n"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vamamurin&color=brightgreen&style=for-the-badge&label=VIEWS" />
+</p>
 
 <h4>Hi, I'm a Cyber Security student at Vietnam Academy of Cryptography Techniques. I'm an Arch Linux daily driver, a Home Lab enthusiast, and currently researching Zero Trust Architecture (BALP). <h4>
 
