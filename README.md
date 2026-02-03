@@ -7,7 +7,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vamamurin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vamamurin)
 
-<h3 align="center"> <strong> What really kill us are the Memories </strong> </h3>
+<h3 align="center"> <strong> What really kills us are the Memories </strong> </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/duc-manh-nguyen-46a8a4325/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
