@@ -10,11 +10,11 @@
 
 <table align="center" width="100%">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vamamurin&theme=radical&show_icons=true&count_private=true&hide=issues" alt="Github stats" />
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vamamurin&theme=radical&show_icons=true&count_private=true" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamamurin&theme=radical&layout=compact" alt="Top Langs" />
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamamurin&theme=radical&layout=compact" />
     </td>
   </tr>
 </table>
