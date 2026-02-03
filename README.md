@@ -4,10 +4,18 @@
     <img src="https://flagcdn.com/40x30/vn.png" alt="Tiếng Việt" width="30"/>
   </a>
 </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" alt="header"/> 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vamamurin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vamamurin)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=33CCFF&center=true&vCenter=true&width=435&lines=Yoooo%2C+it's+vamamurin;Cyber+security+student" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="center"> <strong> What really kills us are the Memories </strong> </h3>
+<div>
+    <img src="./assets/intro.gif" alt="About Me Terminal GIF"/>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/duc-manh-nguyen-46a8a4325/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -65,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
