@@ -20,7 +20,6 @@
 </p>
 
 <h4 align="center">
-  "Thứ thực sự giết chết chúng ta là những kỷ niệm." <br>
   Hủy diệt thế giới này đi ae.
 </h4>
 
