@@ -20,8 +20,7 @@
 </p>
 
 <h4 align="center">
-  "What really kills us are the memories." <br>
-  That's why I want to change the world... or maybe just destroy it.
+  I want to change the world.
 </h4>
 
 <table align="center" width="100%">
@@ -53,7 +52,6 @@
 
 ## Currently Working On
 - **Zero Trust Research**: Developing the Behavior-Adaptive Least Privilege (BALP) model.
-- **Real-time Chat App**: Building a secure communication system with Java & WebSockets.
 - **Home Lab**: Managing a SOC Lab with Wazuh and pfSense on Proxmox.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamamurin&theme=github-compact)](https://github.com/vamamurin)
