@@ -1,11 +1,11 @@
 <div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" alt="header"/> 
+  
 <div align="right">
   <a href="README.VI.md">
     <img src="https://flagcdn.com/40x30/vn.png" alt="Tiếng Việt" width="30"/>
   </a>
 </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" alt="header"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
